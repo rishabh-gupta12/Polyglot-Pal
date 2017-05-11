@@ -1,0 +1,42 @@
+.message{
+	margin-top: 45px;
+	margin-bottom: 40px; 
+	padding: 10px;
+	clear: both;
+}
+
+.message-box{
+	height: 600px;
+	padding: 5px; 
+	color: #193441;
+	font-weight: 300;
+	overflow: scroll;
+	margin-left: 50px;
+}
+
+.sender{
+	float: left;
+	margin-right: 15px;
+}
+
+.message-content{
+	margin-top: 15px;
+	margin-left: 30px;
+}
+
+hr{
+	margin-top: 10px;
+	margin-bottom: 20px;
+	height: 1px;
+	border: none;
+	background: #193441;
+	clear: both;
+}
+
+
+
+.compose{
+	margin:5px;
+	margin-right: 20px;
+	box-shadow: 1px 1px 2px 0px rgba(0,0,0,0.50);
+}

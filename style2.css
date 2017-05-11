@@ -1,0 +1,64 @@
+html,body{
+	background: #FCFFF5;
+	height: 100%;
+}
+
+.image{
+	margin: 0px;
+	padding: 0px;
+	margin-top: 70px;
+	box-shadow: 0px 1px 5px 0px rgba(0,0,0,0.5);
+	cursor: pointer;
+}
+
+img:hover{
+	opacity: 0.8;
+}
+
+p{
+	color: #193441;
+	margin: 5px;
+	text-decoration: underline;
+	cursor: pointer;
+	font-weight: 300;
+}
+
+.about{
+	font-size: 20px;
+	width: 70%;
+	margin: auto;
+	display: block;
+	text-decoration: none;
+}
+.caption{
+	text-decoration: none;
+	color: grey;
+}
+
+#myModalLabel{
+	color: #193441;
+}
+
+.modal{
+	background: rgba(0,0,0,0.65);
+}
+
+.modal-content{
+	background: #FCFFF5;
+}
+
+.matter{
+	margin: 0px;
+	margin: auto;
+	display: block;
+	padding: 0px;
+}
+
+.matter-2{
+	text-decoration: none;
+	width: 80%;
+	margin: auto;
+	display: block;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}

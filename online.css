@@ -1,0 +1,52 @@
+.online{
+	height: 600px;
+	overflow: scroll;
+	padding: 10px;
+	color: #193441;
+}
+
+.user{
+	width: 700px;
+	margin: auto;
+	display: block;
+	margin-top: 35px;
+}
+
+.user:hover{
+	cursor: pointer;
+}
+
+.img-1{
+	margin-bottom: 5px;
+}
+
+.img-2{
+	margin-top: 15px;
+}
+
+.name{
+	margin-top: 10px;
+	margin-left: 10px;
+	color: #193441;
+}
+
+button{
+	margin-top: 5px;
+	background: none;
+	border: none;
+
+}
+
+button:hover{
+	text-decoration: underline;
+}
+
+hr{
+	clear: both;
+	width: 700px;
+	background: #193441;
+	height: 1px;
+	border: 0px;
+	margin: auto;
+	display: block;
+}

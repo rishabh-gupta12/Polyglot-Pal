@@ -1,0 +1,12 @@
+.pal-box{
+	height: 600px;
+	overflow: scroll;
+	border-radius: 4px;
+	color: #FCFFF5;
+	letter-spacing: 2px;
+	padding: 10px;	
+	margin: auto;
+	display: block;
+	margin-top: 50px;
+	margin-left: 480px;
+}
